@@ -73,7 +73,7 @@ I build and ship **production** applications end-to-end — from database schema
 ## 🛠️ Stack & Tools
  
 <div align="center">
-**🌐 Frontend**
+<h4>🌐 Frontend</h4>
  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=00FF9C)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=06b6d4)
@@ -81,7 +81,7 @@ I build and ship **production** applications end-to-end — from database schema
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
 ![PWA](https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=pwa&logoColor=00FF9C)
  
-**⚙️ Backend & Database**
+<h4>⚙️ Backend & Database</h4>
  
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=00FF9C)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=06b6d4)
@@ -90,7 +90,7 @@ I build and ship **production** applications end-to-end — from database schema
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=06b6d4)
 ![Drizzle](https://img.shields.io/badge/Drizzle-0d1117?style=flat-square&logo=drizzle&logoColor=00FF9C)
  
-**🖥️ Desktop & DevOps**
+<h4>🖥️ Desktop & DevOps</h4>
  
 ![Electron](https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=06b6d4)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF9C)
@@ -99,7 +99,7 @@ I build and ship **production** applications end-to-end — from database schema
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=06b6d4)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FF9C)
  
-**🤖 AI & Tooling**
+<h4>🤖 AI & Tooling</h4>
  
 ![Claude](https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=anthropic&logoColor=00FF9C)
 ![Recraft](https://img.shields.io/badge/Recraft_V4-0d1117?style=flat-square&logo=adobe&logoColor=06b6d4)
@@ -115,7 +115,7 @@ I build and ship **production** applications end-to-end — from database schema
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammad180M&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF9C&icon_color=06b6d4&text_color=9be9a8" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammad180M&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=06b6d4&text_color=9be9a8" alt="stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=mohammad180M&hide_border=true&background=0d1117&ring=00FF9C&fire=06b6d4&currStreakLabel=00FF9C&sideLabels=9be9a8&dates=8b949e&stroke=00FF9C&currStreakNum=ffffff&sideNums=ffffff&dayLabels=06b6d4" alt="streak"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad180M&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00FF9C&text_color=9be9a8" alt="langs"/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad180M&hide_border=true&bg_color=0d1117&color=00FF9C&line=06b6d4&point=ffffff&area=true&area_color=00FF9C" alt="activity"/>
