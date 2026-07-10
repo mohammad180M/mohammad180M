@@ -23,7 +23,7 @@
 
 | Platform | Status | What it is |
 |:---|:---:|:---|
-| **[Kitzos](https://kitzos.com)** | 🟢 Live | Privacy-first online tools — 32 tools running 100% in the browser |
+| **[Kitzos](https://kitzos.com)** | 🟢 Live | Privacy-first online tools — 103 tools running 100% in the browser |
 | **[Context Architect](https://c8xt.com)** | 🟢 Live | Developer command reference & visual workflow platform |
 | **Bosala Palestine** | ⚫ Retired | Palestinian business directory with fully independent map infrastructure |
 
@@ -33,10 +33,10 @@
 
 **Keep your data yours.** A free online-tools platform where every tool runs entirely client-side — no uploads, no signup, no backend. Files never leave the user's device.
 
-- **32 tools across 7 categories** — PDF, images, text, dev tools, calculators, converters & utilities
+- **103 tools across 8 categories** — PDF, images, text, dev tools, calculators, converters, audio & utilities (~236 static pages)
 - Registry-driven architecture: one entry in a single source of truth generates the page, SEO metadata, JSON-LD schema, sitemap & internal linking automatically
-- Fully bilingual **English + Arabic (RTL)** with pre-paint locale switching — no flash
-- Static export on a global CDN — every tool page ranks independently on search engines
+- Fully bilingual **English + Arabic (RTL)** — Arabic ships as fully exported static HTML, indexable by search engines
+- Aggressive per-tool code splitting: ~16 KB page chunks, every tool in its own async bundle
 
 `Next.js 14` `TypeScript` `Tailwind CSS` `pdf-lib` `Canvas API` `Cloudflare Pages`
 
