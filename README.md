@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:134e4a,100:2dd4bf&height=180&section=header&text=Mohammed%20Zyoud&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Founder%20%26%20CEO%20at%20Bosala%20Technology&descSize=16&descAlignY=54" width="100%" />
+# Mohammed Zyoud
+
+### Founder &amp; CEO &nbsp;·&nbsp; Bosala Technology
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+digital+platforms+from+Palestine;Designed%2C+engineered+and+shipped+end-to-end;Vector+AI+%C2%B7+Privacy-first+tools+%C2%B7+Raw+WebGL2" alt="typing" />
 
 <br/>
 
 [![Website](https://img.shields.io/badge/bosala.ps-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2dd4bf)](https://bosala.ps)
-[![Email](https://img.shields.io/badge/Get_in_touch-0d1117?style=for-the-badge&logo=maildotru&logoColor=2dd4bf)](mailto:mohammadzyoud180@gmail.com)
-[![Location](https://img.shields.io/badge/Palestine-0d1117?style=for-the-badge&logo=googlemaps&logoColor=2dd4bf)](#)
+[![Email](https://img.shields.io/badge/Get_in_touch-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf)](mailto:mohammadzyoud180@gmail.com)
+![Location](https://img.shields.io/badge/Palestine-0d1117?style=for-the-badge&logo=googlemaps&logoColor=2dd4bf)
 
 </div>
 
@@ -272,8 +274,7 @@ Retired — the domain now serves the company site above.
 **Building the platforms of tomorrow — from Palestine, to the world.**
 
 [![Website](https://img.shields.io/badge/bosala.ps-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2dd4bf)](https://bosala.ps)
-[![Email](https://img.shields.io/badge/Get_in_touch-0d1117?style=for-the-badge&logo=maildotru&logoColor=2dd4bf)](mailto:mohammadzyoud180@gmail.com)
+[![Email](https://img.shields.io/badge/Get_in_touch-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf)](mailto:mohammadzyoud180@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:134e4a,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
